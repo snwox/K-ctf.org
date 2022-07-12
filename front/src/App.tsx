@@ -5,7 +5,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-          Router example;
           <Router />
       </div>
     </BrowserRouter>
